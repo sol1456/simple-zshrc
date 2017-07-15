@@ -1,1 +1,3 @@
 # simple-zshrc
+
+test
