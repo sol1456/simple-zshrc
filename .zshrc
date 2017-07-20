@@ -1,7 +1,3 @@
-export PATH=/usr/local/bin:/usr/local/share/python:$PATH
-export PATH=/usr/local/bin:/usr/local/share/python:$PATH
-export PATH=/usr/local/bin:/usr/local/share/python:$PATH
-
 export PATH="/usr/local/share/npm/bin:$PATH"
 
 export LSCOLORS=gxfxcxdxbxegedabagacad
