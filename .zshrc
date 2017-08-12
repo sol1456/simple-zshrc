@@ -19,8 +19,8 @@ PROMPT="
 %(?.%F{magenta}>>> %f.%F{red}>>> %f"
 
 HISTFILE=~/.zsh_history
-HISTSIZE=1000000
-SAVEHIST=1000000
+HISTSIZE=100
+SAVEHIST=100
 
 setopt auto_cd
 setopt share_history
