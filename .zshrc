@@ -4,15 +4,19 @@ export LSCOLORS=gxfxcxdxbxegedabagacad
 alias ls='ls -G'
 # Linux alias ls='ls -F --color=auto' 
 
-alias -s txt=cat
-alias -s exe=mono
-alias -s zip=zipinfo
-alias -s php=php
-alias -s py=python
-alias -s rb=ruby
 alias -s cs=mcs
+alias -s js=node
+alias -s rb=ruby
+alias -s pl=perl
+alias -s txt=cat
+alias -s php=php
+alias -s exe=mono
+alias -s py=python
+alias -s zip=zipinfo
 
 alias -g vi=vim
+alias -g py2=python
+alias -g py3=python3
 
 PROMPT="
 %F{cyan}%~%f
